@@ -66,3 +66,24 @@ let interestRate :Float = 4.3
 
 
 
+
+var myAmount = 5000
+
+
+
+
+println("Some simple string, ")
+
+
+
+var city = "SF"
+var count = 100
+
+var times = 10
+
+var m = "The  \(count / times  ) city:  \(city)"
+println(m)
+
+
+
+
