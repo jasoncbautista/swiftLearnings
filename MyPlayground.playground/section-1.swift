@@ -20,3 +20,26 @@ for ii in 0..<100 {
 }
 
 highSqor
+
+
+
+
+// strongly typed
+
+var superScore = 100
+
+
+var firstName = "Jason"
+
+
+var isActive = true
+
+
+
+
+var myVariable : NSNumber
+
+
+
+myVariable = 20
+
