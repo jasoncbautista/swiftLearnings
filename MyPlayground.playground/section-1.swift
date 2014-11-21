@@ -43,3 +43,26 @@ var myVariable : NSNumber
 
 myVariable = 20
 
+
+
+
+var lastName: String = "B"
+
+
+
+let str2 = "Hello one two"
+
+
+
+str = "hmm"
+
+
+str = "okay"
+
+
+// Use lete wherever possible:
+let interestRate :Float = 4.3
+
+
+
+
