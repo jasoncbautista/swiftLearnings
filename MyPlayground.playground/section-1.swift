@@ -5,3 +5,18 @@ import UIKit
 var str = "Hello, playground"
 
 
+
+
+var highSqor = 100
+
+highSqor = highSqor  + 50
+
+
+
+
+for ii in 0..<100 {
+    
+    highSqor = highSqor + ii
+}
+
+highSqor
